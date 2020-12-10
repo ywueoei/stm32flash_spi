@@ -19,3 +19,5 @@ Branch: **[Arduino_STM32](https://github.com/stm32duino/stm32flash/tree/Arduino_
 includes the stm32flash sources modified and provided by Roger Clark (@rogerclarkmelbourne)
 with [rogerclarkmelbourne/Arduino_STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32)
 # stm32flash_spi
+
+https://gitlab.com/stm32flash/stm32flash.git
